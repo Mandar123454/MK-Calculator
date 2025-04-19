@@ -1,37 +1,27 @@
-**💫 Stylish Scientific Calculator ✨**
+**💫 Stylish Scientific Calculator ✨**<br>
+Welcome to the Stylish Scientific Calculator – a beautifully crafted, feature-rich calculator that goes beyond basic math. Created with HTML and CSS, this project brings together aesthetic design, scientific functionality, and a dark mode experience for an elegant and interactive user interface.
 
-Welcome to the Stylish Scientific Calculator – a powerful, beautifully designed calculator that goes beyond basic arithmetic. Built using only HTML and CSS, this calculator features a dark theme, scientific functions, animated buttons, and a responsive layout.
+<br><br>
+🚀 **Features**<br>
+🔢 Basic Arithmetic: Addition, Subtraction, Multiplication, Division
 
+📐 Scientific Functions: sin, cos, tan, log, sqrt, x², and more
 
-**🚀 Features**
-🔢 Basic Arithmetic (Addition, Subtraction, Multiplication, Division)
+🌙 Dark Mode Only: Elegant and eye-friendly theme
 
-📐 Scientific Functions (sin, cos, tan, log, sqrt, square, etc.)
+✨ Smooth Animations: Hover effects and fluid transitions
 
-🌙 Dark Mode Only – Eye-comfort and modern aesthetics
+🧠 History Tracking: Review past calculations
 
-✨ Beautiful Animations – Interactive and responsive UI
+🎨 Gradient Buttons: Stylish button design with interactive glow
 
-🧠 History Tracking – Review your previous calculations
+💻 Fully Responsive: Optimized for desktop, tablet, and mobile devices
 
-🎨 Gradient Buttons – Hover effects and button glow
+🧱 Pure HTML & CSS: No JavaScript needed for UI design
 
-💻 Responsive Layout – Works on desktops, tablets, and phones
-
-🦾 Fully HTML + CSS – No JavaScript required for interface design
-
-
-
+<br><br>
 **🛠️ Tech Stack**
 
-Technology	Description
-HTML5	Structure & Elements
-CSS3	Styling, Animations, Layout
-
-
-**📁 File Structure**
-
-📦 Stylish-Calculator
-├── index.html        # Main HTML file
-├── style.css         # CSS styles and animations
-└── README.md         # This documentation
+8*Technology & Purpose**<br>
+HTML5	= Markup and page structure<br>
+CSS3	= Styling and animations
