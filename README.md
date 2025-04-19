@@ -22,6 +22,6 @@ Welcome to the Stylish Scientific Calculator – a beautifully crafted, feature-
 <br><br>
 **🛠️ Tech Stack**
 
-8*Technology & Purpose**<br>
+**Technology & Purpose**<br>
 HTML5	= Markup and page structure<br>
 CSS3	= Styling and animations
