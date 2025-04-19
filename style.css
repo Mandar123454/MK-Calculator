@@ -134,7 +134,7 @@ body {
     100% { transform: translateX(0px) translateY(0px); }
   }
 
- .footer {
+  .footer {
     width: 100%;
     display: flex;
     justify-content: space-between; /* Places items left and right */
